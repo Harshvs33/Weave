@@ -9,7 +9,8 @@ Welcome to **Weave** (`com.infinity.weaveapp`). By downloading, installing, regi
 ## 1. Account Eligibility and Security
 
 * **Account Creation:** To access certain features of Weave, you must create an account using a valid email address. You agree to provide accurate information and keep your credentials secure.
-* **Account Responsibility:** You are entirely responsible for all activities, posts, and media uploads that occur under your account. 
+* **Account Responsibility:** You are entirely responsible for all activities, posts, and media uploads that occur under your account.
+* **Minimum Age:** You must be at least 13 years old to create an account or use Weave. By using the app, you represent that you meet this age requirement.
 
 ---
 
@@ -54,8 +55,12 @@ By using Weave, you agree to indemnify, defend, and hold harmless the developer 
 We reserve the right to modify or replace these Terms and Conditions at any time. Any updates will be published directly to this URL and are effective immediately upon posting. Your continued use of the app after changes are made constitutes acceptance of the new terms.
 
 ---
+## 7. Governing Law
 
-## 7. Contact Us
+These Terms and Conditions are governed by and construed in accordance with the laws of India, without regard to its conflict of law principles. Any disputes arising from these Terms or your use of Weave shall be subject to the exclusive jurisdiction of the courts of India.
+
+---
+## 8. Contact Us
 
 If you have any questions regarding these Terms and Conditions, or if you need to report a user violating the UGC policy, please contact us at:
 
