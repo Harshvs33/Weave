@@ -1,6 +1,6 @@
 # Terms and Conditions for Weave
 
-**Last Updated: May 2026**
+**Last Updated: Aug 2026**
 
 Welcome to **Weave** (`com.infinity.weaveapp`). By downloading, installing, registering an account, or using this application, these terms automatically apply to you. Please read them carefully before using the service.
 
