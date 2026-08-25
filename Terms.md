@@ -19,8 +19,10 @@ Welcome to **Weave** (`com.infinity.weaveapp`). By downloading, installing, regi
 Because Weave is a community platform allowing users to post text, images, videos (clips), and banners, you agree that **you are solely and entirely responsible for any content you upload.**
 
 * **No Endorsement:** The developer does not pre-screen, endorse, validate, or take responsibility for any user-generated content. Views expressed by users within the application do not represent the developer. The content uploaded has nothing to do with the application or the developer, and its legality and appropriateness rest entirely on the user.
-* **Prohibited Content:** You strictly agree **NOT** to post, upload, or share any content that is illegal, defamatory, libelous, promotes hate speech, violence, discrimination, contains explicit pornography, adult content, or highly graphic violence, or infringes upon the intellectual property/copyrights of others.
-* **Enforcement and Moderation:** The developer reserves the right to review, moderate, and permanently remove any user-generated content and terminate violating accounts immediately without prior notice.
+* **Zero Tolerance:** Weave has zero tolerance for objectionable content and abusive behavior. Prohibited content includes, without limitation, anything illegal, defamatory, libelous, hateful, violent, discriminatory, sexually explicit, or that infringes another party's intellectual property or privacy rights. Abusive users — including those who harass, threaten, or repeatedly target other members — are not tolerated on Weave.
+* **Reporting and Blocking:** Every post, clip, comment, and direct message on Weave can be reported directly within the app. Users can also block any other user at any time, which immediately prevents that user from contacting them or being seen by them.
+* **Enforcement and Moderation:** The developer reviews reported content and acts on it within 24 hours of receiving a report — removing violating content and, where warranted, permanently ejecting the responsible user from the platform. The developer also reserves the right to moderate and remove any user-generated content and terminate violating accounts at its discretion, without prior notice.
+
 
 ---
 
